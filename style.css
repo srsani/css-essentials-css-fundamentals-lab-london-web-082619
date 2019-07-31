@@ -33,7 +33,7 @@ section{
     margin-right: auto
 }
 #details{
-  horizontal-align:middle;
+  horizontal:middle;
   background-color:red;
   font-size: smaller;
 }
