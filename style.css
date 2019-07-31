@@ -22,6 +22,6 @@ figure {
 }
 figcaption {
   /*display: table-caption;*/
-  caption-side: bottom;
+  /*caption-side: bottom;*/
   font-size:2;
 }
