@@ -28,5 +28,6 @@ figcaption {
 p {
   /*color: rgba(0, 0, 255, 0.5);*/
   max-width: 800px;
-  /*vertical-align:middle;*/
+  text-align:center; 
+  vertical-align:middle;
 }
