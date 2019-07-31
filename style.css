@@ -38,5 +38,6 @@ section{
   font-size: smaller;
   display : block;
   float: right;
+  clear: left;
  
 }
