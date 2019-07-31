@@ -23,5 +23,5 @@ figure {
 figcaption {
   /*display: table-caption;*/
   /*caption-side: bottom;*/
-  font-size:2;
+  font-size: smaller;
 }
