@@ -32,7 +32,7 @@ section{
   margin-left: auto;
     margin-right: auto
 }
-.section.details{
+#details{
   color: red;
   background-color:black;
 }
