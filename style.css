@@ -36,11 +36,4 @@ section{
   /*color: red;*/
   background-color:red;
   font-size: smaller;
-  position: fixed;
-  display:block;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  color: white;
-  text-align: center;
 }
