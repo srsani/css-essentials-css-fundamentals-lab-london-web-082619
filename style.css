@@ -33,6 +33,6 @@ section{
     margin-right: auto
 }
 #details{
-  color: red;
+  /*color: red;*/
   background-color:red;
 }
