@@ -26,7 +26,7 @@ figcaption {
   /*caption-side: bottom;*/
   font-size: smaller;
 }
-p.section{
+section{
   /*color: rgba(0, 0, 255, 0.5);*/
   max-width: 800px;
   margin-left: auto;
