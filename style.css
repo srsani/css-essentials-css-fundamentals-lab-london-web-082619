@@ -34,6 +34,7 @@ section{
 }
 #details{
   display: block;
+  float:left;
   background-color:red;
   font-size: smaller;
 }
