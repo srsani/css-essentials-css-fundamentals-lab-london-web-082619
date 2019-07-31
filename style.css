@@ -37,6 +37,7 @@ section{
   background-color:red;
   font-size: smaller;
   position: fixed;
+  display:block;
   left: 0;
   bottom: 0;
   width: 100%;
