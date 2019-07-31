@@ -15,3 +15,12 @@ nav a {
   background-color:gray;
   /*text-transform: uppercase;*/
 }
+
+figure {
+  display: table;
+}
+figcaption {
+  display: table-caption;
+  caption-side: top;
+  font-size: 5
+}
