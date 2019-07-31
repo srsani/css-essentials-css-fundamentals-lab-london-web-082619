@@ -6,6 +6,7 @@ body {
   vertical-align:middle;
 }
 
+h1 {color:red;}
 .nav a {
   color: red;
   font-size: 11px;
