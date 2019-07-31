@@ -18,6 +18,7 @@ nav a {
 
 figure {
   display: table;
+  vertical-align:middle;
 }
 figcaption {
   display: table-caption;
